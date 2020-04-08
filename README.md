@@ -1,8 +1,15 @@
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
-Welcome behnazkhoshnood,
+Welcome to my very first website!
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+This website was built as part of the learning material for Code Institute's Fullstack Web Developer program.
+
+Project Description
+This site was created in order to get familiar with common development tools like Cloud9, Git & GitHub, and how to use them to write and manage code. The project itself will display a breakdown of the different technologies used in each of the different sections of the program
+
+Technology
+This project was written in HTML & CSS using Cloud9 and is currently hosted on GitHub pages.
+
 
 ## Gitpod Reminders
 
